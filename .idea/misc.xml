@@ -28,10 +28,46 @@
             </RMarkdownRenderProfile>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_2/chapters/data_exploration.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_2/chapters" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_2/chapters/regression.rmd">
           <value>
             <RMarkdownRenderProfile>
               <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_2/chapters" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_3/chapters/h2o_different.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_3/chapters" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_3/chapters/random_forest_h2o.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_3/chapters" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_3/chapters/random_forest_tidymodels.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_3/chapters" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_3/practica-3.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_3/practica-3.html" />
+              <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/../Arboles/Actividades/practicas_arboles/practicas/practica_3" />
             </RMarkdownRenderProfile>
           </value>
         </entry>

@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Arboles" />
     <orderEntry type="module" module-name="idi_2" />
+    <orderEntry type="module" module-name="Documents" />
   </component>
 </module>

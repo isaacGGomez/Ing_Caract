@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdfe0e00-10f6-40b9-81e5-f34fc330de23" name="Changes" comment="Actualizacion debido a error">
-      <change afterPath="$PROJECT_DIR$/Clase_6_Dummies.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rpackages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Ing_Caract.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ing_Caract.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica_1_GomezIsaac.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_1_GomezIsaac.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +48,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Isaac Gomez/ITESO/Ciencia de datos M. - General/Isaac Gomez/Ing_Caract",
+    "last_opened_file_path": "C:/Users/Isaac Gomez/Documents",
     "settings.editor.selected.configurable": "File.Encoding"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
+      "sqlserver.localdb",
       "sqlserver"
+    ],
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TSQL"
     ]
   }
 }]]></component>
