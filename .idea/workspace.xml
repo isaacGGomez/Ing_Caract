@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdfe0e00-10f6-40b9-81e5-f34fc330de23" name="Changes" comment="Actualizacion debido a error">
-      <change afterPath="$PROJECT_DIR$/tree.dot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../idi_2/.idea/idi_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../idi_2/.idea/idi_2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../idi_2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idi_2/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../idi_2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idi_2/.idea/vcs.xml" afterDir="false" />
