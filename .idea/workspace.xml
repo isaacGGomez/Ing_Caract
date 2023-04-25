@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdfe0e00-10f6-40b9-81e5-f34fc330de23" name="Changes" comment="Actualizacion debido a error">
+      <change afterPath="$PROJECT_DIR$/Discretizacion/Ancho_Freq.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discretizacion/DiscretrizacionKmeans.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discretizacion/dataKmeans.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a916ef9d-ee84-4921-aa7e-3ceac951d887.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ancho_Freq.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_2/Practica_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_2/Practica_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarea4.3_Feature Hashing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tarea4.3_Feature Hashing.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../idi_2/.idea/idi_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../idi_2/.idea/idi_2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../idi_2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idi_2/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../idi_2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idi_2/.idea/vcs.xml" afterDir="false" />
@@ -19,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="RMarkdown.notebook" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
